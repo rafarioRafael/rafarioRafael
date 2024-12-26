@@ -1,5 +1,5 @@
-## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafarioRafael)](https://github.com/rafarioRafael)
+## Back-end developer
+Currently deepening my knowledge in .NET development and exploring backend technologies.
 
 ## Languages and Tools:
 <div>
