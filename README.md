@@ -7,8 +7,8 @@
 
 <div>
 <a href="https://github.com/rafarioRafael">
-<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarioRafael&layout=compact&langs_count=7&bg_color=191745&title_color=a778e4&text_color=FFF&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=radical"/>
-<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=rafarioRafael&show_icons=true&bg_color=191745&title_color=a778e4&text_color=FFF&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=radical&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarioRafael&layout=compact&langs_count=7&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=radical"/>
+<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=rafarioRafael&show_icons=true&text_color=FFF&border_radius=3&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <img src="{https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white}" />
