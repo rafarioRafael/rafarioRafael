@@ -11,11 +11,13 @@
 <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=rafarioRafael&show_icons=true&text_color=FFF&border_radius=3&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
-![image]({https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white})
-![image]({https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white})
-![image]({https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white})
-![image]({https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white})
-![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white})
-![image]({https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black})
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
-![image]({https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white})
+<div>
+<code><img height= "20"src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+<code><img height= "20"src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+</div>
