@@ -4,8 +4,8 @@
 ## Languages and Tools:
 <div>
 <a href="https://github.com/rafarioRafael">
-<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarioRafael&layout=compact&langs_count=7&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=radical"/>
-<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=rafarioRafael&show_icons=true&text_color=FFF&border_radius=3&theme=radical&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafarioRafael&layout=compact&langs_count=7&border_radius=3&border_color=7c45c4&icon_color=e15bdb&theme=midnight-purple"/>
+<img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=rafarioRafael&show_icons=true&text_color=FFF&border_radius=3&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
@@ -21,5 +21,5 @@
 
 ## Contact
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rafael,miranda079@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rafael.miranda079@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/rafael-miranda-698711239/)
