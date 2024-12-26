@@ -21,5 +21,5 @@
 
 ## Contact
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafael,miranda079@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](rafael,miranda079@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/rafael-miranda-698711239/)
