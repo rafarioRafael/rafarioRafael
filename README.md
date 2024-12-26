@@ -1,11 +1,11 @@
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafarioRafael)](https://github.com/rafarioRafael)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&theme=dark#gh-dark-mode-only)link=https://www.linkedin.com/in/rafael-miranda-698711239/)](https://www.linkedin.com/in/rafael-miranda-698711239/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-miranda-698711239/)
 
 
 ## Languages and Tools:
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafarioRafael&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafarioRafael&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafarioRafael&layout=compact&theme-radical)
 
 <img src="{https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white}" />
 <img src="{https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white}" />
